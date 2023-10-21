@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "164K's Personal Page"
 title_separator          : "-"
-logo                     : "/images/site-logo.png"
+logo                     : "images/site-logo.png"
 name                     : &name "Shi Yizuo"
 description              : &description "It's 164K's personal page"
 url                      : https://home.shealizon.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
